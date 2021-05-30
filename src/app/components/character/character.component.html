@@ -1,0 +1,29 @@
+<div class="container mt-5">
+    <div *ngIf="character" class="row animate__animated animate__bounce animate__fadIn">
+        <div class="col-md-9">
+            <p><strong> Name:</strong> {{character.name}}</p>
+            <p><strong> Slug:</strong> {{character.slug}}</p>
+            <ul class="list-group">
+                <li class="list-group-item list-group-item-action animate__animated animate__bounce animate__fadeIn">
+                   Strength: {{character.powerstats.strength}}
+                </li>
+                <li  class="list-group-item list-group-item-action animate__animated animate__bounce animate__fadeIn">
+                    Inteligence: {{character.powerstats.intelligence}}
+                 </li>
+                 <li  class="list-group-item list-group-item-action animate__animated animate__bounce animate__fadeIn">
+                    Speed: {{character.powerstats.speed}}
+                 </li>
+                 <li  class="list-group-item list-group-item-action animate__animated animate__bounce animate__fadeIn">
+                    Durability: {{character.powerstats.durability}}
+                 </li>
+                 <li  class="list-group-item list-group-item-action animate__animated animate__bounce animate__fadeIn">
+                    Combat: {{character.powerstats.combat}}
+                 </li>
+            </ul>
+            <img style="width: 30%; height: 50%; margin-left: auto; margin-right: auto; display: block; margin-top: 30px;" class="rounded" src="{{character.images.sm}}" alt="">
+        </div>
+        <div class="col-md-3">
+            <a class="btn btn-danger" routerLink="/">Back</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,8 @@
+<div class="container">
+    <h1>SUPER HEROES</h1>
+    <ul class="list-group">
+        <a *ngFor="let character of characters" [routerLink]="['/image',character.id]" class="list-group-item list-group-item-action animate__animated animate__bounce animate__fadeIn">
+           {{character.name}} - {{character.slug}}
+        </a>
+    </ul>
+</div>>
