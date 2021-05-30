@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1622394407093,
-  "index": "/PAC-3-PWA/index.html",
+  "timestamp": 1622395151564,
+  "index": "https://gilpratpl.github.io/heroes-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/PAC-3-PWA/favicon.ico",
-        "/PAC-3-PWA/index.html",
-        "/PAC-3-PWA/main.f49e2c1cbe1066e83aaa.js",
-        "/PAC-3-PWA/manifest.webmanifest",
-        "/PAC-3-PWA/polyfills.8c151b8375e767ff858f.js",
-        "/PAC-3-PWA/runtime.0e49e2b53282f40c8925.js",
-        "/PAC-3-PWA/styles.3ff695c00d717f2d2a11.css"
+        "https://gilpratpl.github.io/heroes-pwa/favicon.ico",
+        "https://gilpratpl.github.io/heroes-pwa/index.html",
+        "https://gilpratpl.github.io/heroes-pwa/main.f49e2c1cbe1066e83aaa.js",
+        "https://gilpratpl.github.io/heroes-pwa/manifest.webmanifest",
+        "https://gilpratpl.github.io/heroes-pwa/polyfills.8c151b8375e767ff858f.js",
+        "https://gilpratpl.github.io/heroes-pwa/runtime.0e49e2b53282f40c8925.js",
+        "https://gilpratpl.github.io/heroes-pwa/styles.3ff695c00d717f2d2a11.css"
       ],
       "patterns": [
         "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.0\\.1\\/dist\\/css\\/bootstrap\\.min\\.css"
@@ -31,15 +31,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/PAC-3-PWA/assets/css/animate.css",
-        "/PAC-3-PWA/assets/icons/icon-128x128.png",
-        "/PAC-3-PWA/assets/icons/icon-144x144.png",
-        "/PAC-3-PWA/assets/icons/icon-152x152.png",
-        "/PAC-3-PWA/assets/icons/icon-192x192.png",
-        "/PAC-3-PWA/assets/icons/icon-384x384.png",
-        "/PAC-3-PWA/assets/icons/icon-512x512.png",
-        "/PAC-3-PWA/assets/icons/icon-72x72.png",
-        "/PAC-3-PWA/assets/icons/icon-96x96.png"
+        "https://gilpratpl.github.io/heroes-pwa/assets/css/animate.css",
+        "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-128x128.png",
+        "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-144x144.png",
+        "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-152x152.png",
+        "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-192x192.png",
+        "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-384x384.png",
+        "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-512x512.png",
+        "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-72x72.png",
+        "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -61,22 +61,22 @@
     }
   ],
   "hashTable": {
-    "/PAC-3-PWA/assets/css/animate.css": "bc96496831f4df311443b8e3d76cfc17db53a988",
-    "/PAC-3-PWA/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/PAC-3-PWA/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/PAC-3-PWA/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/PAC-3-PWA/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/PAC-3-PWA/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/PAC-3-PWA/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/PAC-3-PWA/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/PAC-3-PWA/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/PAC-3-PWA/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/PAC-3-PWA/index.html": "6a08c7f16ba4115aa9ad57797ac44913cf5c8e70",
-    "/PAC-3-PWA/main.f49e2c1cbe1066e83aaa.js": "013a73415403e925aae605790b9e0a839ee4cf26",
-    "/PAC-3-PWA/manifest.webmanifest": "bc2170de583910ae94df0330b14f6daa9f46346e",
-    "/PAC-3-PWA/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
-    "/PAC-3-PWA/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/PAC-3-PWA/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://gilpratpl.github.io/heroes-pwa/assets/css/animate.css": "bc96496831f4df311443b8e3d76cfc17db53a988",
+    "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://gilpratpl.github.io/heroes-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://gilpratpl.github.io/heroes-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://gilpratpl.github.io/heroes-pwa/index.html": "6447dd67781378fed4eb82641fb73d3ebfb95846",
+    "https://gilpratpl.github.io/heroes-pwa/main.f49e2c1cbe1066e83aaa.js": "013a73415403e925aae605790b9e0a839ee4cf26",
+    "https://gilpratpl.github.io/heroes-pwa/manifest.webmanifest": "bc2170de583910ae94df0330b14f6daa9f46346e",
+    "https://gilpratpl.github.io/heroes-pwa/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "https://gilpratpl.github.io/heroes-pwa/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://gilpratpl.github.io/heroes-pwa/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
